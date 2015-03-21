@@ -1,2 +1,4 @@
-# hello-world
-my test repository
+hello-world
+===========
+
+Hi. This is my test repository.
